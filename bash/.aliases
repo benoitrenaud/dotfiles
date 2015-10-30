@@ -1,2 +1,3 @@
 # nwayo path
-alias nwayo3="node /Users/brenaud/Documents/PHP/nwayo-v3/bin/nwayo"
+#alias nwayo3="node /Users/brenaud/Documents/PHP/nwayo-v3/bin/nwayo"
+alias vhosts='sudo $EDITOR /Users/brenaud/Documents/PHP/httpd-vhosts.conf'
