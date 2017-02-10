@@ -1,0 +1,7 @@
+{
+  "local_eslint_path": {
+    "windows": "node_modules/eslint/bin/eslint.js",
+    "linux": "node_modules/eslint/bin",
+    "osx": "node_modules/eslint/bin"
+  }
+}

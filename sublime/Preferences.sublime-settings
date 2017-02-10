@@ -1,8 +1,28 @@
 {
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"enable_tab_scrolling": false,
 	"font_size": 15,
+	"highlight_line": true,
+	"hightlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"BracketHighlighter",
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"sidebar_small": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~@#%^&*|+=[]{}`~?",
+	"word_wrap": false
 }
